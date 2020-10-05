@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 3539164243
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c81a884abad66f3cd11cd5f30f56a61c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 279b3011cf5b902392a9c9c3fc7f5a6b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 59
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e2b117045a27eba4dbcf7b388e37d41a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 610165987e46c8f41a1e4f4d47ab6f0a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0859430ea7d14a848a5c09bb29af13c5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 120069f3efe7d1245b7a20da5d6ffe5b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 145
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Parts/Rotule.prefab
+- Assets/Prefabs/Parts/Reactor.prefab
+- Assets/Prefabs/Parts/Wheel.prefab
+- Assets/Prefabs/Parts/Brick.prefab
+- Assets/Prefabs/Parts/Spring.prefab
+Dependencies: []
